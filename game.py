@@ -311,7 +311,7 @@ def main():
         play_blackjack(deck)
         play_again = input("\nDo you want to play again? (y/n): ").lower()
         if play_again != 'y':
-            print("Thank you for playing! Goodbye!😘")
+            print("Thank you for playing! Goodbye!")
             break
 
 
